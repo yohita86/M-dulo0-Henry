@@ -1,2 +1,1 @@
-# M-dulo0-Henry
-Éste es un repositorio del Módulo 0 de Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora
